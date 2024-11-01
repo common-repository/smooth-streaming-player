@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sl-playerss demo-url="http://dl.dropbox.com/u/375527/Wall-e.wmv">
+  <!--
+    /*
+     * Silverlight Video Player
+     * Configuration des variables du plugin
+     *
+     * @package    sl-playerss
+     * @subpackage wordpress plugin
+     * @version    SVN: $Id: $
+     *
+     */
+  -->
+
+  <var 
+    name="autoPlay"
+    control="checkbox"
+    default="1"
+    label="Lecture automatique"
+    description="Lance la lecture dès le chargement de la page" />
+  <var 
+    name="themeColorOne"
+    control="colorpicker"
+    default="726A5D"
+    label="Couleur 1"
+    description="Permet de styler le lecteur" />
+  <var 
+    name="themeColorTwo"
+    control="colorpicker"
+    default="999285"
+    label="Couleur 2"
+    description="Permet de styler le lecteur" />
+
+</sl-playerss>

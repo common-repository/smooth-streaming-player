@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sl-playerss\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-27 13:55+0100\n"
+"PO-Revision-Date: 2010-05-27 16:05+0100\n"
+"Last-Translator: Eric <eric@regart.net>\n"
+"Language-Team: Les sushi-codeurs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss\n"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/locales.php:11
+msgid "Lecture automatique"
+msgstr "Play automatically"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/locales.php:12
+msgid "Lance la lecture dès le chargement de la page"
+msgstr "Play the video as soon as the page loads"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/locales.php:13
+msgid "Couleur 1"
+msgstr "Color 1"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/locales.php:14
+msgid "Permet de styler le lecteur"
+msgstr "Allows you to apply styles to the player"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/locales.php:15
+msgid "Couleur 2"
+msgstr "Color 2"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/sl-playerss.php:29
+msgid "Silverlight Video Player"
+msgstr "Silverlight Video Player"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/sl-playerss.php:47
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:208
+msgid "Insérer Silverlight Video Player"
+msgstr "Insert Silverlight Video Player"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:16
+msgid "Options du plugin Silverlight Video Player"
+msgstr "Silverlight Video Player plugin options"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:18
+msgid "Cette page vous permet de configurer les options de votre plugin."
+msgstr "This page lets you configure your plugin options"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:25
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:212
+msgid "Paramètres du composant Silverlight"
+msgstr "Silverlight component parameters"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:26
+msgid "Paramètre le composant Silverlight"
+msgstr "Parameterize the Silverlight component"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:31
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:225
+msgid "Couleur d'arrière plan"
+msgstr "Background color"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:34
+msgid "Paramètre la couleur de fond par défaut du composant Silverlight."
+msgstr "Parameterize the default background color for the Silverlight component."
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:39
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:233
+msgid "Largeur"
+msgstr "Width"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:42
+msgid "Paramètre la largeur par défaut du composant Silverlight."
+msgstr "Parameterize the default width for the Silverlight component."
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:47
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:241
+msgid "Hauteur"
+msgstr "Height"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:50
+msgid "Paramètre la hauteur par défaut du composant Silverlight."
+msgstr "Parameterize the default height for the Silverlight component."
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:57
+msgid "Valeurs par défaut"
+msgstr "Default values"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:58
+msgid "Paramètre les valeurs par défaut pour la lecture de vos vidéos"
+msgstr "Parameterize the default values for your videos"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/plugin-options-form.php:66
+msgid "Update options"
+msgstr "Update options"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:5
+msgid "Plugin Silverlight Video Player"
+msgstr "Silverlight Video Player Plugin"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:217
+msgid "Arrière plan transparent"
+msgstr "Transparent background"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:220
+msgid "En cochant cette case, le lecteur aura un fond transparent."
+msgstr "Check this box for your player to take a transparent background."
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:228
+msgid "Paramètre la couleur de fond du composant Silverlight."
+msgstr "Parameterize the background color for the Silverlight component."
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:236
+msgid "Paramètre la largeur du composant Silverlight."
+msgstr "Parameterize the width for your Silverlight component."
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:244
+msgid "Paramètre la hauteur du composant Silverlight."
+msgstr "Parameterize the height for your Silverlight component."
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:253
+msgid "Paramètres du lecteur vidéo"
+msgstr "Video player parameters"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:258
+msgid "Url de la vidéo"
+msgstr "Video URL"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:261
+msgid "Url de la vidéo ou du flux Smooth Streaming."
+msgstr "Url for the video or the Smooth Streaming stream."
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:262
+msgid "Cette vidéo est hébergée sur un autre serveur que celui de votre site. Son accès est dépendant du fichier clientaccesspolicy.xml ou crossdomain.xml. <a href=\"http://community.dynamics.com/blogs/cesardalatorre/comments/9579.aspx\" target=\"_blank\">En savoir plus ici</a>."
+msgstr "This video is hosted on another server than yours. Its acces depends on the files clientaccesspolicy.xml or crossdomain.xml. <a href=\"http://community.dynamics.com/blogs/cesardalatorre/comments/9579.aspx\" target=\"_blank\">More infos here</a>."
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:273
+msgid "Prévisualisation du lecteur vidéo"
+msgstr "Video player preview"
+
+#: /Users/alain/Workspace/Les-Sushi-Codeurs/php/10-regartnet.bingmaps.wp/wp-content/plugins/sl-playerss/admin/post-iframe.php:291
+msgid "Enregistrer toutes les modifications"
+msgstr "Insert the shortcode"
+
